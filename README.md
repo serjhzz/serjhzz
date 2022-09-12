@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 style="text-align: center;"> Hi there 👋 Nice to see you.</h1>
+<h2 style="text-align: center;"> I'm beginner's python developer and senior python auto-tester.</h2>
 
-<!--
-**serjhzz/serjhzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=serjhzz&theme=dark)](https://git.io/streak-stats)
+___
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=serjhzz&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=serjhzz&row=2&column=7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serjhzz&show_icons=true&theme=gruvbox)
+
+___
+[![codewars](https://www.codewars.com/users/Serjhzz/badges/large)](https://www.codewars.com/users/Serjhzz)  
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19883310&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
+
