@@ -1,16 +1,37 @@
-<h1 style="text-align: center;"> Hi there 👋 Nice to see you.</h1>
-<h2 style="text-align: center;"> I'm beginner's python developer and senior python auto-tester.</h2>
+<p align="center">
+<h1 style="text-align: center;">
+Hi there 👋
+</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=serjhzz&theme=dark)](https://git.io/streak-stats)
-___
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=serjhzz&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 style="text-align: center;"> 
+I'm beginner's python developer and senior python auto-tester.
+</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=serjhzz&row=2&column=7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<a href="https://github.com/serjhzz?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=serjhzz&theme=gruvbox&show_icons=true&count_private=true&hide_border=true"  width="49%" alt="@SEGA's github-readme-stats"/></a>
+<a href="https://github.com/serjhzz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=serjhzz&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@SEGA's github-readme-streak-stats"/></a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serjhzz&show_icons=true&theme=gruvbox)
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@SEGA">
+        <img src="https://activity-graph.herokuapp.com/graph?username=serjhzz&theme=gruvbox&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="99%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
-___
-[![codewars](https://www.codewars.com/users/Serjhzz/badges/large)](https://www.codewars.com/users/Serjhzz)  
+<p align="center">
+<a href="https://github.com/SEGA?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=serjhzz&theme=gruvbox&column=7&row=1"  width="100%" alt="@SEGA's trophy stats"/></a>
+</p>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19883310&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
+<p align="center">
+    <a href="https://www.codewars.com/users/Serjhzz">
+        <img alt="codewars badge" src="https://www.codewars.com//users/Serjhzz/badges/large">
+    </a>
+</p>
 
+<p align="center">
+    <a href="https://stackoverflow.com/users/6558042/omid-nikrah">
+        <img alt="stackoverflow badge" src="https://github-readme-stackoverflow.vercel.app/?userID=19883310&theme=dark">
+    </a>
+</p>
