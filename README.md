@@ -4,7 +4,7 @@ Hi there 👋
 </h1>
 
 <h2 style="text-align: center;"> 
-I'm beginner's python developer and senior python auto-tester.
+I'm beginner's python developer and senior quality assurance automation engineer.
 </h2>
 
 <p align="center">
