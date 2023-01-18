@@ -8,7 +8,7 @@ I'm beginner's python developer and senior quality assurance automation engineer
 </h2>
 
 <p align="center">
-<a href="https://github.com/serjhzz?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=serjhzz&theme=gruvbox&show_icons=true&count_private=true&hide_border=true"  width="49%" alt="@SEGA's github-readme-stats"/></a>
+<a href="https://github.com/serjhzz?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=serjhzz&theme=gruvbox&count_private=true&show_icons=true&count_private=true&hide_border=true"  width="49%" alt="@SEGA's github-readme-stats"/></a>
 <a href="https://github.com/serjhzz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=serjhzz&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@SEGA's github-readme-streak-stats"/></a>
 </p>
 
