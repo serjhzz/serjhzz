@@ -7,7 +7,13 @@ Hi there 👋
 I'm beginner's python developer and senior quality assurance automation engineer.
 </h2>
 
+<br>
 
+<h4>My Skills:</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,python)](https://skillicons.dev)
+
+<br>
 
 <p align="center">
 <a href="https://github.com/serjhzz?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=serjhzz&theme=gruvbox&count_private=true&show_icons=true&count_private=true&hide_border=true"  width="49%" alt="@SEGA's github-readme-stats"/></a>
