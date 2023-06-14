@@ -11,7 +11,7 @@ I'm beginner's python developer and senior quality assurance automation engineer
 
 <h4>My Skills:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,sqlite,mysql,postgres,redis,regex,git,docker,github,gitlab,jenkins,selenium,postman,linux,vim,bash,powershell,md,raspberrypi&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,sqlite,mysql,postgres,redis,regex,git,docker,github,gitlab,jenkins,selenium,postman,linux,vim,bash,powershell,md,raspberrypi)](https://skillicons.dev)
 
 <br>
 
